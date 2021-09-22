@@ -13,7 +13,7 @@ using System.Globalization;
 
 namespace test3
 {
-    //お絵かきソフトの作成するよ
+    //お絵かきソフトの作成
 
     public partial class Form1 : Form
     {
